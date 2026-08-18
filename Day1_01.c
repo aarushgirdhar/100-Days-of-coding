@@ -1,3 +1,4 @@
+// Write a program to input two numbers and display their sum.git add .
 #include <stdio.h>
 
 int main() {
