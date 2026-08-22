@@ -1,7 +1,7 @@
 // Swap two numbers without using a third variable.
 #include <stdio.h>
 
-int main(void)
+int main()
 {
 	int a, b;
 
